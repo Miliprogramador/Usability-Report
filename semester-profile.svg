@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="370" viewBox="0 0 920 370" role="img" aria-label="Participant semester profile">
+<rect width="100%" height="100%" rx="16" fill="#f7f9f8"/>
+<text x="32" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#182927">Participant semester profile</text>
+<text x="32" y="68" font-family="Arial,sans-serif" font-size="14" fill="#61716d">Responses from 11 participants</text>
+<text x="32" y="111" font-family="Arial,sans-serif" font-size="15" fill="#22322e">1st semester</text>
+<rect x="32" y="118" width="790" height="14" rx="7" fill="#e0e8e4"/>
+<rect x="32" y="118" width="215.5" height="14" rx="7" fill="#267854"/>
+<text x="840" y="131" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#182927">3 (27.3%)</text>
+<text x="32" y="168" font-family="Arial,sans-serif" font-size="15" fill="#22322e">3rd semester</text>
+<rect x="32" y="175" width="790" height="14" rx="7" fill="#e0e8e4"/>
+<rect x="32" y="175" width="143.6" height="14" rx="7" fill="#267854"/>
+<text x="840" y="188" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#182927">2 (18.2%)</text>
+<text x="32" y="225" font-family="Arial,sans-serif" font-size="15" fill="#22322e">4th semester or higher</text>
+<rect x="32" y="232" width="790" height="14" rx="7" fill="#e0e8e4"/>
+<rect x="32" y="232" width="359.1" height="14" rx="7" fill="#267854"/>
+<text x="840" y="245" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#182927">5 (45.5%)</text>
+<text x="32" y="282" font-family="Arial,sans-serif" font-size="15" fill="#22322e">Multiple semester categories (ambiguous)</text>
+<rect x="32" y="289" width="790" height="14" rx="7" fill="#e0e8e4"/>
+<rect x="32" y="289" width="71.8" height="14" rx="7" fill="#267854"/>
+<text x="840" y="302" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#182927">1 (9.1%)</text>
+</svg>

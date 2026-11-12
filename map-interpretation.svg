@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="313" viewBox="0 0 920 313" role="img" aria-label="Interpreting the UDLAP map">
+<rect width="100%" height="100%" rx="16" fill="#f7f9f8"/>
+<text x="32" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#182927">Interpreting the UDLAP map</text>
+<text x="32" y="68" font-family="Arial,sans-serif" font-size="14" fill="#61716d">Responses from 11 participants</text>
+<text x="32" y="111" font-family="Arial,sans-serif" font-size="15" fill="#22322e">Very easy</text>
+<rect x="32" y="118" width="790" height="14" rx="7" fill="#e0e8e4"/>
+<rect x="32" y="118" width="502.7" height="14" rx="7" fill="#267854"/>
+<text x="840" y="131" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#182927">7 (63.6%)</text>
+<text x="32" y="168" font-family="Arial,sans-serif" font-size="15" fill="#22322e">Somewhat easy</text>
+<rect x="32" y="175" width="790" height="14" rx="7" fill="#e0e8e4"/>
+<rect x="32" y="175" width="215.5" height="14" rx="7" fill="#267854"/>
+<text x="840" y="188" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#182927">3 (27.3%)</text>
+<text x="32" y="225" font-family="Arial,sans-serif" font-size="15" fill="#22322e">Neither easy nor difficult</text>
+<rect x="32" y="232" width="790" height="14" rx="7" fill="#e0e8e4"/>
+<rect x="32" y="232" width="71.8" height="14" rx="7" fill="#267854"/>
+<text x="840" y="245" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#182927">1 (9.1%)</text>
+</svg>
