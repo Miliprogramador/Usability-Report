@@ -11,7 +11,7 @@
 
 Finding parking close to a campus destination can be uncertain and time-consuming. UDLAP Smart Parking explores a mobile interface that presents parking areas and their availability in a clear, accessible format. The usability report documents participant feedback, analyzes potential friction points and proposes evidence-based improvements.
 
-**[View the complete interactive HTML report](index.html)**
+**[View the complete interactive HTML report]([index.html](https://miliprogramador.github.io/Usability-Report/))**
 
 ## Study objectives and methodology
 
